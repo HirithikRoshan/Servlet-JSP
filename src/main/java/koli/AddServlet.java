@@ -1,4 +1,4 @@
-// This is my first commit
+// This is my first merge
 package koli;
 
 import java.io.IOException;
